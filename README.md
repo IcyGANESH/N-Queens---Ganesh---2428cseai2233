@@ -39,3 +39,4 @@ Example solution for N=4:
 . . . Q
 Q . . .
 . . Q .
+
